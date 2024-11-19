@@ -1,73 +1,74 @@
 # 🌟 BR Master Dev Technologies 🌟
 
-Bem-vindo ao repositório oficial da **BR Master Dev Technologies**! 🚀  
-Somos uma empresa inovadora dedicada a criar soluções tecnológicas de ponta, focadas em automação, inteligência artificial, e desenvolvimento de software para otimizar o futuro digital.
+Welcome to the official repository of **BR Master Dev Technologies**! 🚀  
+We are an innovative company dedicated to creating cutting-edge technological solutions, focused on automation, artificial intelligence, and software development to optimize the digital future.
 
 ---
 
-## 🌐 Sobre Nós
+## 🌐 About Us
 
-Na BR Master Dev Technologies, acreditamos que a tecnologia é a força transformadora do mundo. Com anos de experiência, oferecemos produtos e serviços personalizados que atendem às necessidades de pequenas, médias e grandes empresas.
+At BR Master Dev Technologies, we believe technology is the transformative force of the world. With years of experience, we deliver tailored products and services that meet the needs of small, medium, and large businesses.
 
-Nossos principais valores:
-- **Inovação contínua:** Estamos sempre explorando novas tecnologias para oferecer soluções inteligentes.
-- **Excelência técnica:** Código limpo, eficiente e escalável é a nossa assinatura.
-- **Compromisso com o cliente:** Trabalhamos lado a lado para alcançar seus objetivos.
-
----
-
-## 💼 Nossos Serviços
-
-🔹 **Desenvolvimento de Software:** Criação de aplicativos web, móveis e sistemas personalizados.  
-🔹 **Integrações de API:** Soluções robustas para conectar sistemas e facilitar fluxos de trabalho.  
-🔹 **Automação Inteligente:** Implementação de IA para melhorar processos e aumentar a produtividade.  
-🔹 **Infraestrutura Cloud:** Configuração e otimização de servidores e arquiteturas em nuvem.  
+Our core values:
+- **Continuous Innovation:** We constantly explore new technologies to provide intelligent solutions.
+- **Technical Excellence:** Clean, efficient, and scalable code is our signature.
+- **Customer Commitment:** We work closely to help you achieve your goals.
 
 ---
 
-## 🚀 Tecnologias que Usamos
+## 💼 Our Services
 
-| **Backend**          | **Frontend**       | **DevOps**              | **Outros**           |
+🔹 **Software Development:** Creating web apps, mobile apps, and customized systems.  
+🔹 **API Integrations:** Robust solutions to connect systems and streamline workflows.  
+🔹 **Intelligent Automation:** Implementing AI to enhance processes and boost productivity.  
+🔹 **Cloud Infrastructure:** Configuring and optimizing servers and cloud architectures.  
+
+---
+
+## 🚀 Technologies We Use
+
+| **Backend**          | **Frontend**       | **DevOps**              | **Others**           |
 |-----------------------|--------------------|-------------------------|----------------------|
 | Node.js, PHP, Python  | React, Vue.js      | Docker, Kubernetes      | MySQL, PostgreSQL    |
 | Laravel, Express.js   | TailwindCSS, SASS  | AWS, Google Cloud       | Redis, RabbitMQ      |
 
 ---
 
-## 📂 Repositórios em Destaque
+## 📂 Featured Repositories
 
-### 🔧 [BR Master Pay Integration](https://github.com/BRMasterDevTechnologies/brmasterpay-integration)
-Integração completa para a API BR Master Pay, com suporte a múltiplos métodos de pagamento, incluindo PIX e Stripe.
+### 🔧 [BR Master Pay Gateway](https://github.com/BRMasterDevTechnologies/brmasterpay-gateway)
+Complete integration for the BR Master Pay API, supporting multiple payment methods, including PIX and Stripe.  
+Visit the official BR Master Pay website: [brmasterpay.com](https://brmasterpay.com)
 
 ### 🌟 [AI WhatsApp Bot](https://github.com/BRMasterDevTechnologies/ai-whatsapp-bot)
-Nosso bot de inteligência artificial para respostas rápidas e inteligentes no WhatsApp.
+Our AI-powered WhatsApp bot for quick and intelligent responses.
 
 ### 🛠️ [Script Shop Tools](https://github.com/BRMasterDevTechnologies/script-shop-tools)
-Ferramentas e utilitários para plataformas digitais como KeyLab e QRPay.
+Tools and utilities for digital platforms like KeyLab and QRPay.
 
 ---
 
-## 📞 Entre em Contato
+## 📞 Contact Us
 
-💼 **Site oficial:** [brmaster.dev](https://brmaster.dev)  
-✉️ **E-mail:** support@brmaster.devm 
-📱 **WhatsApp:** [Clique aqui](https://wa.me/5544998494885)  
+💼 **Official website:** [brmaster.dev](https://brmaster.dev)  
+✉️ **Email:** support@brmasterpay.com  
+📱 **WhatsApp:** [Click here](https://wa.me/5544998494885)  
 📂 **GitHub:** [BRMasterDevTechnologies](https://github.com/BRMasterDevTechnologies)
 
-Acompanhe-nos para atualizações e colabore com nossos projetos!  
-💬 **Fique à vontade para abrir issues e enviar pull requests. Adoramos novas ideias!**
+Stay updated and collaborate with our projects!  
+💬 **Feel free to open issues and submit pull requests. We love new ideas!**
 
 ---
 
-### ⭐ Contribua
+### ⭐ Contribute
 
-Se você é um desenvolvedor talentoso ou uma mente criativa, junte-se à nossa jornada!  
-1. Faça um fork deste repositório.  
-2. Crie uma nova branch para sua funcionalidade (`git checkout -b feature/minha-funcionalidade`).  
-3. Commit suas alterações (`git commit -m 'Adiciona nova funcionalidade'`).  
-4. Envie para o repositório remoto (`git push origin feature/minha-funcionalidade`).  
-5. Abra um pull request e descreva sua contribuição.
+If you're a talented developer or a creative thinker, join us on our journey!  
+1. Fork this repository.  
+2. Create a new branch for your feature (`git checkout -b feature/my-feature`).  
+3. Commit your changes (`git commit -m 'Add new feature'`).  
+4. Push to the remote repository (`git push origin feature/my-feature`).  
+5. Open a pull request and describe your contribution.
 
 ---
 
-🌟 **BR Master Dev Technologies** – Construindo o futuro digital hoje.
+🌟 **BR Master Dev Technologies** – Building the digital future today.
